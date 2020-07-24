@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Addin-Manager</Text>
+    <Description>Some description for Addin-Manager</Description>
+    <Assembly>Addin-Manager.dll</Assembly>
+    <FullClassName>Addin_Manager.Command</FullClassName>
+    <ClientId>ef466884-2c53-481b-8d58-e002f77a518f</ClientId>
+    <VendorId>Abderrahmane RIDA</VendorId>
+    <VendorDescription>ridaabderrahmane@gmail.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
